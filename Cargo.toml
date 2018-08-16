@@ -1,0 +1,8 @@
+[package]
+name = "8ball"
+version = "0.1.0"
+authors = ["Ricky Miller <ricky.miller@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
+regex = "0.2"
